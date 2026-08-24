@@ -35,11 +35,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedo
 
 <div align="center">
 
-<a href="https://github.com/Calama-Devs">
-  <img src="https://github.com/Calama-Devs.png" width="105" alt="Calama Devs" />
-</a>
 
-<br><br>
 
 No Calama Devs, colaboro com estudantes de ADS no desenvolvimento, testes e evolução de projetos reais em equipe.
 

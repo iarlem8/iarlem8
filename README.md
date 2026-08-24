@@ -13,13 +13,7 @@ Olá, eu sou o Iarlem 👋
 
 </div>
 
-public class IarlemLacerda {
-    String[] focus = {"Java", "Web", "Segurança"};
 
-    String mission() {
-        return "Aprender, criar e evoluir todos os dias.";
-    }
-}
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Júnior voluntário no Calama Devs. Gosto de criar sistemas úteis, entender como tudo funciona por trás da tela e transformar desafios em soluções.
 

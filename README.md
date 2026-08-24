@@ -51,6 +51,5 @@ No Calama Devs, colaboro com estudantes de ADS no desenvolvimento, testes e evol
 
 <div align="center">
 
-<sub>while (alive) { learn(); build(); improve(); }</sub>
 
 </div>
